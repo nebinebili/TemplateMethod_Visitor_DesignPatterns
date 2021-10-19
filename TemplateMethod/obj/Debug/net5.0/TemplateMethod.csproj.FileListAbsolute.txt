@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\TemplateMethod\bin\Debug\net5.0\TemplateMethod.exe
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\TemplateMethod\bin\Debug\net5.0\TemplateMethod.deps.json
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\TemplateMethod\bin\Debug\net5.0\TemplateMethod.runtimeconfig.json
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\TemplateMethod\bin\Debug\net5.0\TemplateMethod.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\TemplateMethod\bin\Debug\net5.0\TemplateMethod.dll
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\TemplateMethod\bin\Debug\net5.0\ref\TemplateMethod.dll
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\TemplateMethod\bin\Debug\net5.0\TemplateMethod.pdb
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\TemplateMethod\obj\Debug\net5.0\TemplateMethod.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\TemplateMethod\obj\Debug\net5.0\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\TemplateMethod\obj\Debug\net5.0\TemplateMethod.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\TemplateMethod\obj\Debug\net5.0\TemplateMethod.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\TemplateMethod\obj\Debug\net5.0\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\TemplateMethod\obj\Debug\net5.0\TemplateMethod.dll
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\TemplateMethod\obj\Debug\net5.0\ref\TemplateMethod.dll
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\TemplateMethod\obj\Debug\net5.0\TemplateMethod.pdb
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\TemplateMethod\obj\Debug\net5.0\TemplateMethod.genruntimeconfig.cache

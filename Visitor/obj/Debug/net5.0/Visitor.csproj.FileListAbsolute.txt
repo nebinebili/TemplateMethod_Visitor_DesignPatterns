@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\Visitor\bin\Debug\net5.0\Visitor.exe
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\Visitor\bin\Debug\net5.0\Visitor.deps.json
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\Visitor\bin\Debug\net5.0\Visitor.runtimeconfig.json
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\Visitor\bin\Debug\net5.0\Visitor.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\Visitor\bin\Debug\net5.0\Visitor.dll
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\Visitor\bin\Debug\net5.0\ref\Visitor.dll
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\Visitor\bin\Debug\net5.0\Visitor.pdb
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\Visitor\obj\Debug\net5.0\Visitor.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\Visitor\obj\Debug\net5.0\Visitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\Visitor\obj\Debug\net5.0\Visitor.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\Visitor\obj\Debug\net5.0\Visitor.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\Visitor\obj\Debug\net5.0\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\Visitor\obj\Debug\net5.0\Visitor.dll
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\Visitor\obj\Debug\net5.0\ref\Visitor.dll
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\Visitor\obj\Debug\net5.0\Visitor.pdb
+C:\Users\Admin\source\repos\Visitor_TemplateMethod_DesignPatterns\Visitor\obj\Debug\net5.0\Visitor.genruntimeconfig.cache
